@@ -1,158 +1,191 @@
 <h1 align="center">Olá, eu sou a Juliane! 👋</h1>
 
-<h3 align="center">Desenvolvedora Backend e Arquiteta de Software</h3>
-
-## Sobre Mim
-
-Sou uma Arquiteta de Software apaixonada por construir sistemas distribuídos, resilientes e escaláveis, com foco em **Java e o ecossistema Spring**. Minha trajetória única, combinando uma formação em **Direito** com **Sistemas de Informação**, me proporciona uma perspectiva diferenciada para desenhar soluções que não apenas atendem aos requisitos técnicos, mas também se alinham a regras de negócio complexas e ambientes regulados.
-
-- Meu foco principal é aprofundar minha expertise em **Java, Spring e Arquitetura de Software**, construindo sistemas robustos com padrões como Microsserviços, CQRS e Event Sourcing.
-- Busco constantemente evoluir minhas habilidades, explorando outras tecnologias como **Angular, React, TypeScript e Python** para me tornar uma profissional mais completa.
-- Fale comigo sobre design de APIs, integração de sistemas, qualidade de software e padrões de arquitetura.
-- Você pode me encontrar em: **[julianemaran@gmail.com](mailto:julianemaran@gmail.com)**
-
-## Minhas Principais Stacks
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-</div>
-
-## Áreas de Expertise
-
-<details>
-  <summary><b>Java & Ecossistema Spring</b></summary>
-  <br/>
-  <ul>
-    <li><b>Versões:</b> Java 11, 17 e 21+</li>
-    <li><b>Core:</b> Spring Framework 6, Spring Boot 3, Spring Security 6</li>
-    <li><b>Dados:</b> Spring Data (JPA, JDBC), Hibernate, Flyway Migration</li>
-    <li><b>Web:</b> Spring MVC, Spring WebFlux (Reativo), REST, SOAP, Web Services</li>
-    <li><b>Microsserviços:</b> Spring Cloud (Discovery, Routing, Gateway), Spring Boot Actuator</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Arquitetura & Microsserviços</b></summary>
-  <br/>
-  <ul>
-    <li><b>Mensageria:</b> Apache Kafka, RabbitMQ</li>
-    <li><b>Padrões:</b> Microsserviços, Arquitetura Orientada a Eventos (EDA), CQRS, Event Sourcing, DDD, API Gateway, Circuit Breaker</li>
-    <li><b>Cache:</b> Redis</li>
-    <li><b>Comunicação:</b> RESTful (APIs REST)</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>DevOps, Cloud & CI/CD</b></summary>
-  <br/>
-  <ul>
-    <li><b>Cloud:</b> AWS (S3, EC2, Lambda), Azure (DevOps, Functions)</li>
-    <li><b>Containerização:</b> Docker, Docker Compose, Kubernetes (K8s)</li>
-    <li><b>CI/CD:</b> Jenkins, Azure DevOps Pipelines, GitHub Actions</li>
-    <li><b>Bancos de Dados:</b> PostgreSQL, MySQL, H2, MongoDB</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Testes & Qualidade de Código</b></summary>
-  <br/>
-  <ul>
-    <li><b>Testes:</b> JUnit 5, Mockito, AssertJ, TDD</li>
-    <li><b>Testes de Integração:</b> Testcontainers, Spring Boot Test</li>
-    <li><b>Testes de Carga/Performance:</b> JMeter</li>
-    <li><b>Qualidade:</b> SonarQube, Clean Code</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Segurança</b></summary>
-  <br/>
-  <ul>
-    <li><b>Autenticação e Autorização:</b> Token JWT, OAuth2, OpenID Connect</li>
-    <li><b>Ferramentas:</b> Spring Security, Keycloak (integração)</li>
-    <li><b>Conceitos:</b> LDAP, CORS, CSRF</li>
-  </ul>
-</details>
-
-## Princípios e Metodologias de Arquitetura
-
-- **API-First Design:** Contratos de API bem definidos (Swagger/OpenAPI) como base para o desenvolvimento.
-- **C4 Model:** Documentação de arquitetura clara e compreensível para diferentes públicos (técnicos e de negócio).
-- **Clean Architecture:** Separação de responsabilidades para sistemas testáveis e de fácil manutenção.
-- **CQRS (Command Query Responsibility Segregation) & Event Sourcing:** Utilização de padrões avançados para sistemas que exigem alta performance, escalabilidade e rastreabilidade completa de dados.
-- **Domain-Driven Design (DDD):** Modelagem de software alinhada às regras de negócio.
-- **Event-Driven Architecture (EDA):** Criação de sistemas desacoplados e reativos.
-
-## Cursos e Certificações
-
-<details>
-  <summary>Clique para ver minha jornada de aprendizado</summary>
-  <br/>
-  
-  **Java, Spring & Testes:**
-  - Complete Java: From Zero to Professional
-  - Spring Boot 3, Spring Framework 6 & Hibernate
-  - Testing Spring Boot (Testes de unidade, integração e mais)
-  - Java Web Service + SOAP and REST Security
-  
-  **Desenvolvimento Web e Mobile:**
-  - Complete Web Development (Full-Stack)
-  - Python 3 Course from Basic to Advanced
-  - Android and iOS Development with Flutter
-  - Complete Android Development
-
-  **Dados e Regulatório:**
-  - Data Engineering Training
-  - General Data Protection Law (LGPD) in Practice
-  - LGPD: Privacy and Personal Data Protection Policy
-  
-  **Habilidades Complementares:**
-  - Leadership and People Management
-  - Excel Basic to Advanced
-</details>
-
-## Projetos em Destaque
-
-<p>Abaixo estão alguns repositórios que demonstram meus estudos e práticas em arquitetura e desenvolvimento.</p>
+<h3 align="center">
+Backend Engineer • Software Architect • Java & Spring Specialist
+</h3>
 
 <p align="center">
-  <!-- Card para o repositório SoftwareArchitecture -->
-  <a href="https://github.com/JuhMaran/SoftwareArchitecture">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=code-architectures&theme=tokyonight&show_owner=true"/>
-  </a>
-  <!-- Card para o repositório my-libs -->
-  <a href="https://github.com/JuhMaran/my-libs">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=my-libs&theme=tokyonight&show_owner=true"/>
-  </a>
-  <!-- Card para o repositório unit-testing -->
-  <a href="https://github.com/JuhMaran/unit-testing">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=unit-testing&theme=tokyonight&show_owner=true"/>
-  </a>
+Desenvolvedora Backend apaixonada por arquitetura de software, sistemas distribuídos e microsserviços resilientes.
 </p>
 
-## Minhas Estatísticas no GitHub
+👩‍💻 Sobre mim
+
+Sou **Software Engineer e Arquiteta de Software**, especializada no ecossistema **Java + Spring**, com experiência no desenvolvimento de **microsserviços escaláveis e arquiteturas orientadas a eventos**.
+
+Minha trajetória combina **Direito + Sistemas de Informação**, o que me permite compreender profundamente **regras de negócio complexas, ambientes regulados e arquitetura corporativa**.
+
+💡 Interesses principais:
+
+- Arquitetura de Software
+- Microsserviços e Event Driven Architecture
+- Sistemas reativos e escaláveis
+- Integração entre sistemas distribuídos
+- Qualidade de software e boas práticas de engenharia
+
+📫 Contato: **julianemaran@gmail.com**
+
+# 🚀 Tech Stack
+
+### Backend & Arquitetura
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuhMaran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuhMaran&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
 </p>
+
+### Microsserviços & Integração
+
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuhMaran&theme=tokyonight" alt="[Seu Nome]" />
+
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Event Driven Architecture-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CQRS-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event Sourcing-darkred?style=for-the-badge"/>
+
 </p>
 
-## Conecte-se comigo
+### Cloud & DevOps
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/juliane-maran/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
+
 </p>
+
+### Banco de Dados
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
+
+</p>
+
+### Frontend & Linguagens Complementares
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+</p>
+
+# 🧠 Arquitetura & Engenharia de Software
+
+Tenho experiência prática com:
+
+- **Microsserviços**
+- **Domain Driven Design (DDD)**
+- **CQRS**
+- **Event Sourcing**
+- **SAGA Pattern**
+- **Arquitetura Hexagonal**
+- **Clean Architecture**
+- **Event Driven Architecture**
+- **API First Design**
+- **C4 Model**
+
+Também atuo em:
+
+- definição de **arquitetura de integração**
+- **design de APIs REST**
+- revisão técnica e **code review**
+- evolução de arquitetura legada
+- apoio técnico e **mentoria de desenvolvedores**
+
+# 💼 Experiência Profissional
+
+Atuação sólida no desenvolvimento de **sistemas distribuídos, APIs escaláveis e arquiteturas de microsserviços**, participando ativamente de decisões técnicas, evolução arquitetural e melhoria contínua da qualidade de software.
+
+### Backend Engineering
+
+* Desenvolvimento de **microsserviços escaláveis** utilizando **Java (8, 11, 17 e 21)** e **Spring Boot**.
+* Construção de **APIs REST robustas e resilientes** voltadas para ambientes de missão crítica.
+* Implementação de **arquiteturas reativas** com **Spring WebFlux**.
+* Integração entre sistemas heterogêneos utilizando **REST, SOAP e Web Services**.
+* Desenvolvimento orientado a **contratos de API (API First)** com **OpenAPI / Swagger**.
+* Implementação de **segurança em APIs** com **Spring Security, OAuth2, JWT e OpenID Connect**.
+
+### Arquitetura de Software
+
+* Definição e evolução de **arquiteturas de microsserviços** baseadas em **Domain-Driven Design (DDD)**.
+* Aplicação de **Clean Architecture** e **Arquitetura Hexagonal** para sistemas altamente testáveis e desacoplados.
+* Implementação de **Event Driven Architecture (EDA)** para comunicação assíncrona entre serviços.
+* Aplicação de padrões avançados de arquitetura como:
+  * **CQRS (Command Query Responsibility Segregation)**
+  * **Event Sourcing**
+  * **SAGA Pattern**
+  * **API Gateway**
+  * **Circuit Breaker**
+* Elaboração de **documentação arquitetural utilizando C4 Model**.
+* Condução de **POCs técnicas e validação de arquiteturas complexas**.
+
+### Integração de Sistemas
+
+* Implementação de **arquiteturas orientadas a eventos** com **Apache Kafka e RabbitMQ**.
+* Integração entre sistemas corporativos, plataformas legadas e serviços cloud.
+* Desenvolvimento de **fluxos de integração desacoplados e resilientes**.
+* Definição de **estratégias de comunicação síncrona e assíncrona** entre serviços.
+
+### Cloud, DevOps e Infraestrutura
+
+* Experiência com ambientes **Cloud (AWS e Azure)**.
+* Containerização de aplicações com **Docker**.
+* Orquestração de containers com **Kubernetes e OpenShift**.
+* Implementação e manutenção de pipelines **CI/CD** utilizando:
+  * **Jenkins**
+  * **Azure DevOps**
+  * **GitHub Actions**
+* Monitoramento e observabilidade de aplicações distribuídas.
+
+### Qualidade de Software
+
+* Desenvolvimento orientado a testes (**TDD**).
+* Criação de **testes unitários, integração e testes de contrato**.
+* Uso de ferramentas como:
+  * **JUnit 5**
+  * **Mockito**
+  * **Testcontainers**
+  * **JMeter**
+* Garantia de qualidade de código com **SonarQube**.
+* Aplicação de princípios de **Clean Code** e boas práticas de engenharia.
+
+### Liderança Técnica
+
+* Participação ativa em **decisões arquiteturais e definição de soluções técnicas**.
+* Realização de **code reviews** e definição de padrões de desenvolvimento.
+* Apoio técnico e **mentoria de desenvolvedores**.
+* Condução de discussões arquiteturais com times multidisciplinares.
+* Apoio na evolução técnica de squads e disseminação de boas práticas.
+
+### Inteligência Artificial aplicada ao Desenvolvimento
+
+* Uso de **ferramentas de IA para suporte ao desenvolvimento de software**, incluindo:
+  * análise de código
+  * revisão técnica
+  * interpretação de contratos **OpenAPI / Swagger**
+  * apoio na tomada de decisão arquitetural
+
+### Conhecimentos Complementares
+
+* **Kotlin**
+* **Python**
+* **Angular**
+* **TypeScript**
+* **Node.js**
+* Desenvolvimento Web (**HTML5 e CSS3**)
