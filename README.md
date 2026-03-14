@@ -176,3 +176,41 @@ Solid experience designing and developing **distributed systems, scalable APIs, 
 - **TypeScript**
 - **Node.js**
 - Web development (**HTML5 and CSS3**)
+
+# ⭐ Featured Projects
+
+Below are some repositories that demonstrate my studies and practical work in **software architecture, backend development, and distributed systems**.
+
+<p align="center">
+
+<a href="https://github.com/JuhMaran/code-architectures">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=code-architectures&theme=tokyonight&show_owner=true"/>
+</a>
+
+<a href="https://github.com/JuhMaran/my-libs">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=my-libs&theme=tokyonight&show_owner=true"/>
+</a>
+
+<a href="https://github.com/JuhMaran/unit-testing">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=unit-testing&theme=tokyonight&show_owner=true"/>
+</a>
+
+</p>
+
+### What you'll find in these projects
+
+- Examples of **Java and Spring Boot microservices**
+- Implementation of **software architecture patterns**
+- **Testing strategies** with JUnit, Mockito and Testcontainers
+- Experiments with **integration and messaging**
+- Studies related to **Clean Architecture and DDD**
+
+# 📊 GitHub Stats
+
+<p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuhMaran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuhMaran&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</p>
