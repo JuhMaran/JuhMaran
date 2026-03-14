@@ -76,6 +76,57 @@ Minha formação combina **Direito e Sistemas de Informação**, o que proporcio
 
 ---
 
+# 📜 Certificados
+
+Os certificados dos cursos abaixo estão disponíveis na pasta do repositório:
+
+📂 **Pasta de Certificados:**  
+👉[Ver Certificados](./Certificates)
+
+### Cursos Concluídos
+
+☁️ **Cloud & DevOps (AWS)**
+
+- [AWS Partner: Containers on AWS (Technical) (Portuguese)](./Certificates/AWS_Partner_Container_on_AWS.pdf)
+- [Getting Started with DevOps on AWS (Portuguese)](./Certificates/Getting-started-with-DevOps-on-AWS-PT.pdf)
+
+☕ **Java & Spring Ecosystem**
+
+- [Java Completo: do Zero ao Profissional + Projetos](./Certificates/Java_Completo_Zero_ao_Profissional.jpg)
+- [Java e Orientação a Objetos](./Certificates/Java_e_Orientacao_a_Objetos.pdf)
+- [Java Unit Testing com Spring Boot 3, TDD, JUnit 5 e Mockito](/Certificates/xxx.pdf)
+- [Certificado de Conclusão Alura: Java e Spring](./Certificates/alura-certificado-de-conclusao-02.pdf)
+(./Certificates/Criando_uma_Politica_de_Privacidade_e_Protecao_de_Dados.pdf)
+
+**Spring Framework)
+
+- [Spring Boot 3, Spring 6 & Hibernate for Beginners](./Certificates/NEW_SpringBoot3_Spring6_HibernateForBeginners.pdf)
+- [Spring Boot 4, Spring Framework 7: Beginner to Guru](./Certificates/xxxxxxxxxx.pdf)
+- [Spring Security 6 Zero to Master along with JWT, OAuth2](./Certificates/NEW_SpringSecurity6_ZeroToMaster_along_with_JWT_OAuth2.pdf)
+
+🔐 **Data Protection & Compliance (LGPD)**
+
+- [Lei Geral de Proteção de Dados Pessoais na Prática](./Certificates/LGPD_na_Pratica.pdf)
+- [LGPD: Política de Privacidade e Proteção de Dados Pessoais!](./Certificates/xxx.pdf)
+- [Criando uma Política de Privacidade e Proteção de Dados](./Certificates/xxx.pdf)
+
+👥 **Leadership & People Management**
+
+- [Liderança e Gestão de Pessoas e Equipes](./Certificates/Lideranca_e_Gesto_de_Pessoas_e_Equipes.pdf)
+- [Liderança e Gestão de Pessoas | Formação Completa + 5 Extras](./Certificates/xxx.pdf)
+
+📊 **Data, Analytics & Development**
+
+- [Desenvolvedor Qlikview do Zero](./Certificates/Desenvolvedor_Qlikview_do_Zero.pdf)
+- [Formação Engenheiro de Dados: Domine Big Data!](./Certificates/formacao-engenheiro-de-dados-domine-big-data.jpg)
+
+💻 **Software Development & Productivity**
+
+- [Desenvolvimento Web Completo - 20 Cursos + 20 Projetos](./Certificates/Desenvolvimento_WEB_Completo_Udemy.pdf)
+- [Excel Básico ao Avançado - 5 Cursos - Formação Especialista](./Certificates/Excel_Basico_Avancado_5_Cursos_Formacao_Especialista.pdf)
+
+---
+
 # 🧠 Arquitetura de Software
 
 **Experiência prática com:**
