@@ -8,6 +8,12 @@ Backend Engineer • Software Architect • Java & Spring Specialist
 Backend developer passionate about software architecture, distributed systems, and resilient microservices.
 </p>
 
+<p align="center">
+🇺🇸 English | <a href="./README.pt-BR.md">🇧🇷 Português</a>
+</p>
+
+---
+
 # 👩‍💻 About Me
 
 I am a **Software Engineer and Software Architect** specialized in the **Java + Spring ecosystem**, with strong experience in building **scalable microservices and event-driven architectures**.
@@ -15,6 +21,7 @@ I am a **Software Engineer and Software Architect** specialized in the **Java + 
 My professional background combines **Law and Information Systems**, giving me a unique perspective when designing solutions that must comply with **complex business rules, regulatory environments, and enterprise architecture standards**.
 
 💡 **Main interests:**
+
 - Software Architecture
 - Microservices & Event-Driven Architecture
 - Reactive and scalable systems
@@ -22,6 +29,8 @@ My professional background combines **Law and Information Systems**, giving me a
 - Software quality and engineering best practices
 
 📫 Contact: **julianemaran@gmail.com**
+
+---
 
 # 🚀 Tech Stack
 
@@ -74,136 +83,116 @@ My professional background combines **Law and Information Systems**, giving me a
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
 </p>
 
+---
+
 # 🧠 Software Architecture & Engineering
 
 **Practical experience with:**
-- **Microservices Architecture**
-- **Domain-Driven Design (DDD)**
-- **CQRS**
-- **Event Sourcing**
-- **SAGA Pattern**
-- **Hexagonal Architecture**
-- **Clean Architecture**
-- **Event-Driven Architecture**
-- **API-First Design**
-- **C4 Model**
+
+- Microservices Architecture
+- Domain-Driven Design (DDD)
+- CQRS
+- Event Sourcing
+- SAGA Pattern
+- Hexagonal Architecture
+- Clean Architecture
+- Event-Driven Architecture
+- API-First Design
+- C4 Model
 
 **Also involved in:**
-- **integration architecture design**
-- **REST API design**
-- technical reviews and **code reviews**
-- legacy architecture modernization
-- technical support and **developer mentoring**
+
+- Integration architecture design
+- REST API design
+- Technical reviews and **code reviews**
+- Legacy architecture modernization
+- Technical support and **developer mentoring**
+
+---
 
 # 💼 Professional Experience
 
-Solid experience designing and developing **distributed systems, scalable APIs, and microservices architectures**, actively contributing to **technical decision-making, architectural evolution, and continuous improvement of software quality**.
+Solid experience designing and developing **distributed systems, scalable APIs, and microservices architectures**, actively contributing to **technical decision-making and architectural evolution**.
 
-## Backend Engineering
+### Backend Engineering
 
-- Development of **scalable microservices** using **Java (8, 11, 17, and 21)** and **Spring Boot**.
-- Design and implementation of **robust and resilient REST APIs** for mission-critical environments.
-- Implementation of **reactive architectures** using **Spring WebFlux**.
-- Integration between heterogeneous systems using **REST, SOAP, and Web Services**.
-- **API-First development** using **OpenAPI / Swagger**.
-- Implementation of **API security** with **Spring Security, OAuth2, JWT, and OpenID Connect**.
+- Scalable microservices with **Java (8, 11, 17, 21)** and **Spring Boot**
+- Robust **REST API development**
+- Reactive systems with **Spring WebFlux**
+- Integration via **REST, SOAP and Web Services**
+- **API-First development** using **OpenAPI / Swagger**
+- Security with **Spring Security, OAuth2, JWT, OpenID Connect**
 
-## Software Architecture
+### Software Architecture
 
-- Design and evolution of **microservices architectures** based on **Domain-Driven Design (DDD)**.
-- Application of **Clean Architecture** and **Hexagonal Architecture** for highly testable and decoupled systems.
-- Implementation of **Event-Driven Architecture (EDA)** for asynchronous communication between services.
-- Application of advanced architectural patterns such as:
-  - **CQRS (Command Query Responsibility Segregation)**
-  - **Event Sourcing**
-  - **SAGA Pattern**
-  - **API Gateway**
-  - **Circuit Breaker**
-- Creation of **architecture documentation using the C4 Model**.
-- Leading **technical POCs and architecture validation initiatives**.
+- **DDD-based microservices architectures**
+- **Clean Architecture and Hexagonal Architecture**
+- **Event-Driven Architecture**
+- Patterns:
 
-## Systems Integration
+  - CQRS
+  - Event Sourcing
+  - SAGA
+  - API Gateway
+  - Circuit Breaker
 
-- Implementation of **event-driven architectures** using **Apache Kafka and RabbitMQ**.
-- Integration between enterprise systems, legacy platforms, and cloud services.
-- Development of **resilient and loosely coupled integration flows**.
-- Definition of **synchronous and asynchronous communication strategies**.
+- Architecture documentation using **C4 Model**
+- Technical **POCs and architecture validation**
 
-## Cloud, DevOps & Infrastructure
+### Systems Integration
 
-- Experience with **Cloud environments (AWS and Azure)**.
-- Application containerization using **Docker**.
-- Container orchestration with **Kubernetes and OpenShift**.
-- Implementation and maintenance of **CI/CD pipelines**, including:
-  - **Jenkins**
-  - **Azure DevOps**
-  - **GitHub Actions**
-- Monitoring and observability of distributed applications.
+- Messaging with **Kafka and RabbitMQ**
+- Enterprise systems integration
+- Asynchronous and synchronous communication strategies
 
-## Software Quality
+### Cloud & DevOps
 
-- **Test-Driven Development (TDD)** practices.
-- Creation of **unit tests, integration tests, and contract tests**.
-- Use of tools such as:
-  - **JUnit 5**
-  - **Mockito**
-  - **Testcontainers**
-  - **JMeter**
-- Code quality assurance with **SonarQube**.
-- Application of **Clean Code principles** and engineering best practices.
+- **AWS and Azure**
+- **Docker**
+- **Kubernetes and OpenShift**
+- CI/CD:
 
-## Technical Leadership
+  - Jenkins
+  - Azure DevOps
+  - GitHub Actions
 
-- Active participation in **architectural decisions and solution design**.
-- Performing **code reviews** and establishing development standards.
-- Providing **technical guidance and mentoring developers**.
-- Leading architecture discussions with **cross-functional teams**.
-- Supporting team technical growth and promoting engineering best practices.
+### Software Quality
 
-## Artificial Intelligence Applied to Development
+- **TDD**
+- Unit, integration and contract tests
+- JUnit, Mockito, Testcontainers, JMeter
+- **SonarQube**
+- **Clean Code principles**
 
-- Use of **AI tools to support software engineering activities**, including:
-  - code analysis
-  - technical review
-  - interpretation of **OpenAPI / Swagger contracts**
-  - architectural decision support
-
-## Additional Knowledge
-
-- **Kotlin**
-- **Python**
-- **Angular**
-- **TypeScript**
-- **Node.js**
-- Web development (**HTML5 and CSS3**)
+---
 
 # ⭐ Featured Projects
-
-Below are some repositories that demonstrate my studies and practical work in **software architecture, backend development, and distributed systems**.
 
 <p align="center">
 
 <a href="https://github.com/JuhMaran/code-architectures">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=code-architectures&theme=tokyonight&show_owner=true"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=code-architectures&theme=tokyonight&show_owner=true"/>
 </a>
 
 <a href="https://github.com/JuhMaran/my-libs">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=my-libs&theme=tokyonight&show_owner=true"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=my-libs&theme=tokyonight&show_owner=true"/>
 </a>
 
 <a href="https://github.com/JuhMaran/unit-testing">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=unit-testing&theme=tokyonight&show_owner=true"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=unit-testing&theme=tokyonight&show_owner=true"/>
 </a>
 
 </p>
 
 ### What you'll find in these projects
 
-- Examples of **Java and Spring Boot microservices**
-- Implementation of **software architecture patterns**
-- **Testing strategies** with JUnit, Mockito and Testcontainers
-- Experiments with **integration and messaging**
-- Studies related to **Clean Architecture and DDD**
+- Java and Spring Boot microservices
+- Software architecture patterns
+- Testing strategies with JUnit, Mockito and Testcontainers
+- Integration and messaging experiments
+- Clean Architecture and DDD studies
+
+---
 
 # 📊 GitHub Stats
 
