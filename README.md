@@ -1,32 +1,36 @@
-<h1 align="center">Olá, eu sou a Juliane! 👋</h1>
+<h1 align="center">Hi, I'm Juliane! 👋</h1>
 
 <h3 align="center">
 Backend Engineer • Software Architect • Java & Spring Specialist
 </h3>
 
 <p align="center">
-Desenvolvedora Backend apaixonada por arquitetura de software, sistemas distribuídos e microsserviços resilientes.
+Backend developer passionate about software architecture, distributed systems, and resilient microservices.
 </p>
 
-👩‍💻 Sobre mim
+---
 
-Sou **Software Engineer e Arquiteta de Software**, especializada no ecossistema **Java + Spring**, com experiência no desenvolvimento de **microsserviços escaláveis e arquiteturas orientadas a eventos**.
+# 👩‍💻 About Me
 
-Minha trajetória combina **Direito + Sistemas de Informação**, o que me permite compreender profundamente **regras de negócio complexas, ambientes regulados e arquitetura corporativa**.
+I am a **Software Engineer and Software Architect** specialized in the **Java + Spring ecosystem**, with strong experience in building **scalable microservices and event-driven architectures**.
 
-💡 Interesses principais:
+My professional background combines **Law and Information Systems**, giving me a unique perspective when designing solutions that must comply with **complex business rules, regulatory environments, and enterprise architecture standards**.
 
-- Arquitetura de Software
-- Microsserviços e Event Driven Architecture
-- Sistemas reativos e escaláveis
-- Integração entre sistemas distribuídos
-- Qualidade de software e boas práticas de engenharia
+💡 Main interests:
 
-📫 Contato: **julianemaran@gmail.com**
+- Software Architecture
+- Microservices & Event-Driven Architecture
+- Reactive and scalable systems
+- Distributed system integration
+- Software quality and engineering best practices
+
+📫 Contact: **julianemaran@gmail.com**
+
+---
 
 # 🚀 Tech Stack
 
-### Backend & Arquitetura
+### Backend & Architecture
 
 <p align="center">
 
@@ -38,7 +42,7 @@ Minha trajetória combina **Direito + Sistemas de Informação**, o que me permi
 
 </p>
 
-### Microsserviços & Integração
+### Microservices & Integration
 
 <p align="center">
 
@@ -63,7 +67,7 @@ Minha trajetória combina **Direito + Sistemas de Informação**, o que me permi
 
 </p>
 
-### Banco de Dados
+### Databases
 
 <p align="center">
 
@@ -74,7 +78,7 @@ Minha trajetória combina **Direito + Sistemas de Informação**, o que me permi
 
 </p>
 
-### Frontend & Linguagens Complementares
+### Frontend & Complementary Languages
 
 <p align="center">
 
@@ -85,107 +89,118 @@ Minha trajetória combina **Direito + Sistemas de Informação**, o que me permi
 
 </p>
 
-# 🧠 Arquitetura & Engenharia de Software
+---
 
-Tenho experiência prática com:
+# 🧠 Software Architecture & Engineering
 
-- **Microsserviços**
-- **Domain Driven Design (DDD)**
+Practical experience with:
+
+- **Microservices Architecture**
+- **Domain-Driven Design (DDD)**
 - **CQRS**
 - **Event Sourcing**
 - **SAGA Pattern**
-- **Arquitetura Hexagonal**
+- **Hexagonal Architecture**
 - **Clean Architecture**
-- **Event Driven Architecture**
-- **API First Design**
+- **Event-Driven Architecture**
+- **API-First Design**
 - **C4 Model**
 
-Também atuo em:
+Also involved in:
 
-- definição de **arquitetura de integração**
-- **design de APIs REST**
-- revisão técnica e **code review**
-- evolução de arquitetura legada
-- apoio técnico e **mentoria de desenvolvedores**
+- **integration architecture design**
+- **REST API design**
+- technical reviews and **code reviews**
+- legacy architecture modernization
+- technical support and **developer mentoring**
 
-# 💼 Experiência Profissional
+---
 
-Atuação sólida no desenvolvimento de **sistemas distribuídos, APIs escaláveis e arquiteturas de microsserviços**, participando ativamente de decisões técnicas, evolução arquitetural e melhoria contínua da qualidade de software.
+# 💼 Professional Experience
+
+Solid experience designing and developing **distributed systems, scalable APIs, and microservices architectures**, actively contributing to **technical decision-making, architectural evolution, and continuous improvement of software quality**.
 
 ### Backend Engineering
 
-* Desenvolvimento de **microsserviços escaláveis** utilizando **Java (8, 11, 17 e 21)** e **Spring Boot**.
-* Construção de **APIs REST robustas e resilientes** voltadas para ambientes de missão crítica.
-* Implementação de **arquiteturas reativas** com **Spring WebFlux**.
-* Integração entre sistemas heterogêneos utilizando **REST, SOAP e Web Services**.
-* Desenvolvimento orientado a **contratos de API (API First)** com **OpenAPI / Swagger**.
-* Implementação de **segurança em APIs** com **Spring Security, OAuth2, JWT e OpenID Connect**.
+- Development of **scalable microservices** using **Java (8, 11, 17, and 21)** and **Spring Boot**.
+- Design and implementation of **robust and resilient REST APIs** for mission-critical environments.
+- Implementation of **reactive architectures** using **Spring WebFlux**.
+- Integration between heterogeneous systems using **REST, SOAP, and Web Services**.
+- **API-First development** using **OpenAPI / Swagger**.
+- Implementation of **API security** with **Spring Security, OAuth2, JWT, and OpenID Connect**.
 
-### Arquitetura de Software
+### Software Architecture
 
-* Definição e evolução de **arquiteturas de microsserviços** baseadas em **Domain-Driven Design (DDD)**.
-* Aplicação de **Clean Architecture** e **Arquitetura Hexagonal** para sistemas altamente testáveis e desacoplados.
-* Implementação de **Event Driven Architecture (EDA)** para comunicação assíncrona entre serviços.
-* Aplicação de padrões avançados de arquitetura como:
-  * **CQRS (Command Query Responsibility Segregation)**
-  * **Event Sourcing**
-  * **SAGA Pattern**
-  * **API Gateway**
-  * **Circuit Breaker**
-* Elaboração de **documentação arquitetural utilizando C4 Model**.
-* Condução de **POCs técnicas e validação de arquiteturas complexas**.
+- Design and evolution of **microservices architectures** based on **Domain-Driven Design (DDD)**.
+- Application of **Clean Architecture** and **Hexagonal Architecture** for highly testable and decoupled systems.
+- Implementation of **Event-Driven Architecture (EDA)** for asynchronous communication between services.
+- Application of advanced architectural patterns such as:
 
-### Integração de Sistemas
+  - **CQRS (Command Query Responsibility Segregation)**
+  - **Event Sourcing**
+  - **SAGA Pattern**
+  - **API Gateway**
+  - **Circuit Breaker**
 
-* Implementação de **arquiteturas orientadas a eventos** com **Apache Kafka e RabbitMQ**.
-* Integração entre sistemas corporativos, plataformas legadas e serviços cloud.
-* Desenvolvimento de **fluxos de integração desacoplados e resilientes**.
-* Definição de **estratégias de comunicação síncrona e assíncrona** entre serviços.
+- Creation of **architecture documentation using the C4 Model**.
+- Leading **technical POCs and architecture validation initiatives**.
 
-### Cloud, DevOps e Infraestrutura
+### Systems Integration
 
-* Experiência com ambientes **Cloud (AWS e Azure)**.
-* Containerização de aplicações com **Docker**.
-* Orquestração de containers com **Kubernetes e OpenShift**.
-* Implementação e manutenção de pipelines **CI/CD** utilizando:
-  * **Jenkins**
-  * **Azure DevOps**
-  * **GitHub Actions**
-* Monitoramento e observabilidade de aplicações distribuídas.
+- Implementation of **event-driven architectures** using **Apache Kafka and RabbitMQ**.
+- Integration between enterprise systems, legacy platforms, and cloud services.
+- Development of **resilient and loosely coupled integration flows**.
+- Definition of **synchronous and asynchronous communication strategies**.
 
-### Qualidade de Software
+### Cloud, DevOps & Infrastructure
 
-* Desenvolvimento orientado a testes (**TDD**).
-* Criação de **testes unitários, integração e testes de contrato**.
-* Uso de ferramentas como:
-  * **JUnit 5**
-  * **Mockito**
-  * **Testcontainers**
-  * **JMeter**
-* Garantia de qualidade de código com **SonarQube**.
-* Aplicação de princípios de **Clean Code** e boas práticas de engenharia.
+- Experience with **Cloud environments (AWS and Azure)**.
+- Application containerization using **Docker**.
+- Container orchestration with **Kubernetes and OpenShift**.
+- Implementation and maintenance of **CI/CD pipelines**, including:
 
-### Liderança Técnica
+  - **Jenkins**
+  - **Azure DevOps**
+  - **GitHub Actions**
 
-* Participação ativa em **decisões arquiteturais e definição de soluções técnicas**.
-* Realização de **code reviews** e definição de padrões de desenvolvimento.
-* Apoio técnico e **mentoria de desenvolvedores**.
-* Condução de discussões arquiteturais com times multidisciplinares.
-* Apoio na evolução técnica de squads e disseminação de boas práticas.
+- Monitoring and observability of distributed applications.
 
-### Inteligência Artificial aplicada ao Desenvolvimento
+### Software Quality
 
-* Uso de **ferramentas de IA para suporte ao desenvolvimento de software**, incluindo:
-  * análise de código
-  * revisão técnica
-  * interpretação de contratos **OpenAPI / Swagger**
-  * apoio na tomada de decisão arquitetural
+- **Test-Driven Development (TDD)** practices.
+- Creation of **unit tests, integration tests, and contract tests**.
+- Use of tools such as:
 
-### Conhecimentos Complementares
+  - **JUnit 5**
+  - **Mockito**
+  - **Testcontainers**
+  - **JMeter**
 
-* **Kotlin**
-* **Python**
-* **Angular**
-* **TypeScript**
-* **Node.js**
-* Desenvolvimento Web (**HTML5 e CSS3**)
+- Code quality assurance with **SonarQube**.
+- Application of **Clean Code principles** and engineering best practices.
+
+### Technical Leadership
+
+- Active participation in **architectural decisions and solution design**.
+- Performing **code reviews** and establishing development standards.
+- Providing **technical guidance and mentoring developers**.
+- Leading architecture discussions with **cross-functional teams**.
+- Supporting team technical growth and promoting engineering best practices.
+
+### Artificial Intelligence Applied to Development
+
+- Use of **AI tools to support software engineering activities**, including:
+
+  - code analysis
+  - technical review
+  - interpretation of **OpenAPI / Swagger contracts**
+  - architectural decision support
+
+### Additional Knowledge
+
+- **Kotlin**
+- **Python**
+- **Angular**
+- **TypeScript**
+- **Node.js**
+- Web development (**HTML5 and CSS3**)
