@@ -126,27 +126,27 @@ Sou uma Arquiteta de Software apaixonada por construir sistemas distribuídos, r
 
 <p align="center">
   <!-- Card para o repositório SoftwareArchitecture -->
-  <a href="https://github.com/JulianeMaran32/SoftwareArchitecture">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianeMaran32&repo=code-architectures&theme=tokyonight&show_owner=true"/>
+  <a href="https://github.com/JuhMaran/SoftwareArchitecture">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=code-architectures&theme=tokyonight&show_owner=true"/>
   </a>
   <!-- Card para o repositório my-libs -->
-  <a href="https://github.com/JulianeMaran32/my-libs">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianeMaran32&repo=my-libs&theme=tokyonight&show_owner=true"/>
+  <a href="https://github.com/JuhMaran/my-libs">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=my-libs&theme=tokyonight&show_owner=true"/>
   </a>
   <!-- Card para o repositório unit-testing -->
-  <a href="https://github.com/JulianeMaran32/unit-testing">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianeMaran32&repo=unit-testing&theme=tokyonight&show_owner=true"/>
+  <a href="https://github.com/JuhMaran/unit-testing">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuhMaran&repo=unit-testing&theme=tokyonight&show_owner=true"/>
   </a>
 </p>
 
 ## Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianeMaran32&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianeMaran32&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuhMaran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuhMaran&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JulianeMaran32&theme=tokyonight" alt="[Seu Nome]" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuhMaran&theme=tokyonight" alt="[Seu Nome]" />
 </p>
 
 ## Conecte-se comigo
