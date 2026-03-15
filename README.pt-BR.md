@@ -96,9 +96,8 @@ Os certificados dos cursos abaixo estão disponíveis na pasta do repositório:
 - [Java e Orientação a Objetos](./Certificates/Java_e_Orientacao_a_Objetos.pdf)
 - [Java Unit Testing com Spring Boot 3, TDD, JUnit 5 e Mockito](/Certificates/xxx.pdf)
 - [Certificado de Conclusão Alura: Java e Spring](./Certificates/alura-certificado-de-conclusao-02.pdf)
-(./Certificates/Criando_uma_Politica_de_Privacidade_e_Protecao_de_Dados.pdf)
 
-**Spring Framework)
+**Spring Framework**
 
 - [Spring Boot 3, Spring 6 & Hibernate for Beginners](./Certificates/NEW_SpringBoot3_Spring6_HibernateForBeginners.pdf)
 - [Spring Boot 4, Spring Framework 7: Beginner to Guru](./Certificates/xxxxxxxxxx.pdf)
@@ -108,7 +107,7 @@ Os certificados dos cursos abaixo estão disponíveis na pasta do repositório:
 
 - [Lei Geral de Proteção de Dados Pessoais na Prática](./Certificates/LGPD_na_Pratica.pdf)
 - [LGPD: Política de Privacidade e Proteção de Dados Pessoais!](./Certificates/xxx.pdf)
-- [Criando uma Política de Privacidade e Proteção de Dados](./Certificates/xxx.pdf)
+- [Criando uma Política de Privacidade e Proteção de Dados](./Certificates/Criando_uma_Politica_de_Privacidade_e_Protecao_de_Dados.pdf)
 
 👥 **Leadership & People Management**
 
